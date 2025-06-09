@@ -56,13 +56,11 @@ cd Plant-Disease-Detection-System
 
 ### 2. Install Dependencies
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 
 ### 3. Run the Streamlit App
 ```bash
-Copy code
 streamlit run app.py
 ```
 
