@@ -1,6 +1,6 @@
-# 🌿 Plant Disease Detection System
+# 🌿 FloraScan
 
-This is a machine learning-powered web application designed to detect plant diseases from leaf images using OpenCV and TensorFlow. The application is deployed using the Streamlit framework, offering an interactive user interface for uploading images and receiving predictions.
+FloraScan is an intelligent plant health detection platform that enables users to upload or capture images of their plants to assess their condition. Leveraging advanced AI technology, the system analyzes the image in real time to detect signs of disease or confirm plant health. With a focus on early diagnosis and prevention, FloraScan empowers users to protect, treat, and care for their plants more effectively.
 
 ---
 
@@ -17,8 +17,8 @@ This is a machine learning-powered web application designed to detect plant dise
 
 ## 🖼️ Dataset
 
-- Source: [Include source if public or mention "Custom collected dataset"]
-- Number of Classes: e.g., Tomato, Potato, Cauliflower (Healthy and Diseased)
+- Source: Custom collected dataset
+- Number of Classes: 38
 - Format: JPG/PNG images
 - Preprocessing: Resizing, normalization, augmentation using OpenCV
 
