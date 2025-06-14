@@ -78,14 +78,25 @@ streamlit run main.py
 ## 📁 Project Structure
 ```bash
 Copy code
-├── dataset/
-│   └── [train, test folders]
-├── model/
-│   └── plant_disease_model.h5
-├── app.py
-├── utils.py
-├── requirements.txt
-├── README.md
+├──.streamlit
+|      └── config.toml
+├──.vscode
+|      └──settings.json
+├──img
+|     └── [ background.jpg, deafult_pfp.jpg, home.png, logo.png ]
+├──test
+|      └── dataset
+├──train
+|      └── dataset
+├──valid
+|      └── dataset
+├──main.py
+├──README.md
+├──requirements.txt
+├──Test_Plant_Disease.ipynv
+├──Train_Plant_disease.ipynb
+├──trained_model.h5
+├──training_hist.json
 ```
 
 ---
