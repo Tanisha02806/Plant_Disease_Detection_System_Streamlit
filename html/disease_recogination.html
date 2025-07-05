@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FloraScan</title>
+  <link href="css/style.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Reem+Kufi+Fun:wght@600&family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header">
+        <a href="homepage.html" class="logo-link">
+            <img class="logo" src="img/logo.png" alt="FloraScan Logo">
+        </a>
+        <div class="nav-menu">
+            <a class="nav-item" href="homepage.html">Home</a>
+            <a class="nav-item" href="disease_recogination.html">Disease Recogination</a>
+            <a class="nav-item" href="history.html">History</a>
+        </div>
+        <a href="profile.html" class="profile-image">
+            <img class="profile-image" style="width: 55px; height: 55px;" src="img/default_pfp.jpg" alt="Profile">
+        </a>
+    </header>
+
+    <section class="banner-diseaserecogination">
+      <div class="banner-diseaserecogination-container">
+        <img class="banner-diseaserecogination-image" src="img/background.jpg" alt="Banner Background" />
+        <div class="banner-diseaserecogination-text">DISEASE RECOGINATION</div>
+      </div>
+    </section>
+
+    <div class="actions-container">
+      <!-- Hidden file input -->
+      <input type="file" id="imageUpload" accept="image/*" style="display: none;">
+
+      <!-- Styled div acting as button -->
+      <div class="upload-button" id="uploadBtn">Upload the image</div>
+
+      <div class="bottom-buttons">
+        <div class="action-button" id="predictBtn">Show prediction</div>
+        <div class="action-button" id="showImageBtn">Show Image</div>
+      </div>
+
+      <!-- For image preview and prediction result -->
+      <div id="imagePreviewContainer" style="margin-top: 20px;"></div>
+      <div id="predictionResult" style="margin-top: 10px; font-weight: bold;"></div>
+
+      <!-- Text-based Prediction Result -->
+      <div id="predictionResult" style="margin-top: 30px; font-size: 18px; font-weight: 500; text-align: left; max-width: 600px;"></div>
+    </div>
+
+    <footer class="footer">
+        <div class="top">
+            <div class="about">
+            <a href="homepage.html">
+              <img src="img/logo.png" alt="FloraScan Logo"   style="width: 60px; height: 60px"/>
+            </a>
+            <p style="width: 400px; color: #008000;">FloraScan is an AI-driven platform that quickly identifies plant diseases from images. It empowers farmers with accurate diagnosis, treatment suggestions, and actionable insights for healthier crops.</p>
+            </div>
+            <div class="links">
+            <div class="links-column">
+                <h3>Useful Links</h3>
+                <a href="#">About Us</a>
+                <a href="#">Privacy & Policy</a>
+                <a href="#">Terms & Condition</a>
+            </div>
+            <div class="links-column">
+                <h3>Contact</h3>
+                <div style="color: #008000;">Address: Rajkot, Gujarat</div>
+                <div style="color: #008000;">Phone: +91 8780932530</div>
+                <div style="color: #008000;">Email: info@florascan.com</div>
+            </div>
+            <div class="links-column">
+                <h3>Follow Us</h3>
+                <a href="#">Facebook</a>
+                <a href="#">Instagram</a>
+                <a href="#">YouTube</a>
+            </div>
+            </div>
+        </div>
+        <div class="footer-bottom" style="color: #008000;">
+            All Rights Reserved by Tanisha Thakur
+        </div>
+    </footer>
+    
+</body>
+
+<script>
+  const uploadBtn = document.getElementById('uploadBtn');
+  const imageUpload = document.getElementById('imageUpload');
+  const showImageBtn = document.getElementById('showImageBtn');
+  const predictBtn = document.getElementById('predictBtn');
+  const imagePreviewContainer = document.getElementById('imagePreviewContainer');
+  const predictionResult = document.getElementById('predictionResult');
+
+  let selectedImage = null;
+
+  // Open file dialog
+  uploadBtn.addEventListener('click', () => {
+    imageUpload.click();
+  });
+
+  // Store selected file
+  imageUpload.addEventListener('change', (e) => {
+    const file = e.target.files[0];
+    if (file && file.type.startsWith('image/')) {
+      selectedImage = file;
+      predictionResult.textContent = '';
+      imagePreviewContainer.innerHTML = ''; // Clear preview
+    } else {
+      alert("Please select a valid image file.");
+    }
+  });
+
+  // Show image preview
+  showImageBtn.addEventListener('click', () => {
+    if (selectedImage) {
+      const reader = new FileReader();
+      reader.onload = function (e) {
+        imagePreviewContainer.innerHTML = `<img src="${e.target.result}" alt="Uploaded Image" style="max-width: 300px; border: 1px solid #ccc;">`;
+      };
+      reader.readAsDataURL(selectedImage);
+    } else {
+      alert("Please upload an image first.");
+    }
+  });
+
+  // Show prediction result in normal text
+  predictBtn.addEventListener('click', () => {
+  if (selectedImage) {
+    predictionResult.innerHTML = "Predicting...";
+
+    setTimeout(() => {
+      // 🔹 Dummy prediction data
+      const prediction = {
+        disease: "Tomato___Leaf_Mold",
+        description: "Leaf Mold is a fungal disease that appears as yellow spots on upper leaf surfaces and olive-green to brown mold on the underside.",
+        treatment: "Use fungicides such as copper-based sprays. Remove and destroy affected leaves. Ensure proper air circulation in the field.",
+        healthPercent: "65%",
+        severity: "Moderate"
+      };
+
+      predictionResult.innerHTML = `
+        <div style="background: #D2EACF; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+          <h3 style="color: #006400;">Prediction Result</h3>
+          <p style="color: #008000;"><strong>Disease:</strong> ${prediction.disease}</p>
+          <p style="color: #008000;"><strong>Description:</strong> ${prediction.description}</p>
+          <p style="color: #008000;"><strong>Treatment:</strong> ${prediction.treatment}</p>
+          <p style="color: #008000;"><strong>Health %:</strong> ${prediction.healthPercent}</p>
+          <p style="color: #008000;"><strong>Severity:</strong> ${prediction.severity}</p>
+        </div>
+      `;
+    }, 1000);
+  } else {
+    alert("Please upload an image first.");
+  }
+});
+</script>
+</html>
