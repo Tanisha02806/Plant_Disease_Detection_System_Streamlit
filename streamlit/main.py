@@ -293,17 +293,26 @@ elif app_mode == "Disease Recognition":
         </style>
     """, unsafe_allow_html=True)
 
-    # 🌿 Upload Image
-    test_image = st.file_uploader("📤 Upload a Plant Leaf Image")
+    # 🌿 Upload or Capture Image
+    st.subheader("📤 Upload or 📷 Capture a Plant Leaf Image")
+    # 📁 Upload section
+    test_image = st.file_uploader("Upload an Image (JPG/PNG)", type=["jpg", "jpeg", "png"])
 
-    if st.button("🖼️ Show Image") and test_image:
-        st.image(test_image, width=300, caption="Uploaded Image")
+    # 📷 Camera section (shown after upload for optional capture)
+    camera_input = st.camera_input("Or Capture Image with Camera")
 
-    # 🔍 Predict Button
+    # Decide which image to use (priority to uploaded image)
+    final_image = test_image if test_image is not None else camera_input
+
+    # Show Image
+    if st.button("🖼️ Show Image") and final_image:
+        st.image(final_image, width=300, caption="Selected/Captured Leaf Image")
+
+    # Predict Button
     if st.button("🔬 Predict"):
-        if test_image is not None:
+        if final_image is not None:
             with st.spinner("🔎 Analyzing image..."):
-                result_index = model_prediction(test_image)
+                result_index = model_prediction(final_image)
 
                 class_name = [
                     'Apple___Apple_scab', 'Apple___Black_rot', 'Apple___Cedar_apple_rust', 'Apple___healthy',
@@ -323,16 +332,24 @@ elif app_mode == "Disease Recognition":
 
                 predicted_disease = class_name[result_index]
 
-                # 📚 Disease Info
+                # 🌱 Prediction Box
+                st.markdown(f"""
+                    <div class="predict-box">
+                        <div class="result-header">Prediction:</div>
+                        <div class="result-disease">{predicted_disease}</div>
+                    </div>
+                """, unsafe_allow_html=True)
+
+                # 🧬 Disease Info
                 disease_details = get_disease_info(predicted_disease)
                 with st.expander("🧾 View Detailed Disease Information", expanded=True):
                     st.markdown(disease_details.replace("\n", "  \n"))
 
-                # 📄 Generate & Save PDF
+                # 📄 PDF Generation
                 pdf_path = generate_pdf(predicted_disease, disease_details)
                 save_history(predicted_disease, pdf_path)
 
-                # 📥 Download Button (Styled)
+                # 📥 Styled Download Button
                 with open(pdf_path, "rb") as f:
                     st.markdown("<div class='download-btn'>", unsafe_allow_html=True)
                     st.download_button(
@@ -342,9 +359,9 @@ elif app_mode == "Disease Recognition":
                         mime="application/pdf"
                     )
                     st.markdown("</div>", unsafe_allow_html=True)
-
         else:
-            st.warning("⚠️ Please upload an image before predicting.")
+            st.warning("⚠️ Please upload or capture an image before predicting.")
+
 
 # 📜 History Page
 elif app_mode == "History":
