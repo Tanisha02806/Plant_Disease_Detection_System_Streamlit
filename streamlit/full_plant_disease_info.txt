@@ -1,0 +1,645 @@
+Disease Name: Apple___Apple_scab
+Affected Crop: Apple
+Typical Occurrence:
+-Found worldwide, but most common in temperate apple-growing regions (e.g., Europe, North America, parts of Asia).
+-Disease appears in early spring and can persist throughout the growing season if unmanaged.
+Conditions Favoring Disease:
+-Cool, wet weather during bud break and early leaf growth (especially **12–24°C** with leaf wetness for over 9 hours).
+-Poor air circulation and prolonged leaf wetness (e.g., due to overhead irrigation or dense canopy).
+Symptoms:
+-Olive-green to dark brown velvety spots** on young leaves, eventually turning black.
+-Scabby lesions on fruits**, often circular and sunken, reducing market value.
+-Leaf curling or premature leaf drop** in severe cases, weakening the tree over time.
+Cause:
+-Fungal pathogen: Venturia inaequalis
+-Overwinters in fallen infected leaves and fruit on the ground; spreads by rain-splash in spring.
+Prevention:
+-Sanitation: Remove and destroy fallen leaves and infected fruits in autumn to reduce overwintering spores.
+-Plant Resistant Varieties: Use apple cultivars like 'Liberty', 'Enterprise', or 'Freedom' that are resistant to scab.
+Treatment:
+-Fungicide Application: Use fungicides like captan, mancozeb, or myclobutanil during early season (pre-bloom to petal fall) and according to disease forecast models.
+-Pruning: Prune to improve air circulation and sunlight penetration to reduce leaf wetness duration.
+======================================================================
+
+Disease Name: Apple___Black_rot
+Affected Crop: Apple
+Typical Occurrence:
+-Common in warm, humid regions—especially in the eastern and southern United States.
+-Most severe during mid to late summer, particularly in neglected or poorly managed orchards.
+Conditions Favoring Disease:
+-Warm temperatures (24–29°C) with high humidity and frequent rainfall.
+-Wounded or stressed trees, especially those with poor pruning, sunscald, or winter injuries.
+Symptoms:
+-Dark brown circular lesions on leaves, often with concentric rings or target-like appearance.
+-Fruit rot: firm, brown decay starting at the calyx end, eventually turning into a shriveled "mummy" with black pycnidia.
+-Canker formation on twigs or branches, causing bark to crack and peel.
+Cause:
+-Fungal pathogen: Botryosphaeria obtusa (syn. Physalospora obtusa)
+-Overwinters in dead wood, mummified fruits, and cankers, spreading through wind or rain-splash.
+Prevention:
+-Orchard Sanitation: Remove and destroy all mummified fruits, prune dead or diseased branches, and clear fallen debris.
+-Avoid Wounding: Protect trees from mechanical injuries, sunburn, and winter damage which serve as entry points for the fungus.
+Treatment:
+-Fungicide Sprays: Apply protective fungicides like captan, thiophanate-methyl, or mancozeb, especially during wet growing seasons.
+-Proper Pruning: Prune during dry conditions to remove infected limbs and improve air circulation.
+======================================================================
+
+Disease Name: Apple___Cedar_apple_rust
+Affected Crop: Apple 
+Typical Occurrence:
+-Occurs in regions where apple trees and juniper (cedar) trees coexist, especially in the eastern and central United States.
+-Becomes visible in late spring to early summer, following rainy conditions.
+Conditions Favoring Disease:
+-Cool, wet spring weather (12–20°C) with extended leaf wetness (4+ hours).
+-Proximity of apple trees to infected cedars/junipers (within \~2 miles allows spore transmission).
+Symptoms:
+-Yellow-orange spots on upper leaf surfaces of apples, which later develop red halos.
+-Tube-like spore-producing structures (aecia) on the underside of infected leaves.
+-Deformed or discolored fruit, sometimes with lesions, making apples unmarketable.
+Cause:
+-Fungal pathogen: Gymnosporangium juniperi-virginianae
+-Heteroecious rust requiring two hosts (juniper and apple) to complete its life cycle.
+Prevention:
+-Host Separation: Avoid planting apple trees within 2–5 km of juniper or cedar trees. Remove wild or ornamental junipers nearby if possible.
+-Resistant Cultivars: Use resistant apple varieties such as 'Redfree', 'Liberty', or 'Enterprise'.
+Treatment:
+-Fungicide Sprays: Apply fungicides (e.g., myclobutanil, trifloxystrobin, propiconazole) during the pink to early fruit stages of apple development.
+-Prune Gall Structures: On cedar trees, remove brown galls before spring rains to reduce spore release.
+======================================================================
+
+Disease Name: Apple___healthy
+Crop: Apple
+======================================================================
+
+Disease Name: Blueberry___healthy
+Crop: Blueberry
+======================================================================
+
+Disease Name: Cherry_(including_sour)___Powdery_mildew
+Affected Crop: Cherry (including sour and sweet cherry)
+Typical Occurrence:
+-Common in temperate regions with humid conditions, especially during the late spring to summer period.
+-Often affects young leaves and shoots and is more severe in dense canopies with poor air flow.
+Conditions Favoring Disease:
+-Warm, dry days followed by cool, humid nights, typically around 20–25°C.
+-Shaded or poorly ventilated areas within the canopy that retain moisture and reduce air movement.
+Symptoms:
+-White, powdery fungal growth on the upper or lower surface of young leaves.
+-Leaf curling, distortion, or yellowing due to fungal stress.
+-Stunted shoot growth and reduced fruit quality or size in severe infections.
+Cause:
+-Fungal pathogen: Podosphaera clandestina
+-Overwinters in infected buds or bark and spreads via wind-dispersed spores in favorable conditions.
+Prevention:
+-Proper Spacing and Pruning: Improve airflow and sunlight penetration to reduce humidity in the canopy.
+-Resistant Varieties: Choose cultivars with **tolerance or resistance** to powdery mildew when available.
+Treatment:
+-Fungicide Application: Apply effective fungicides like sulfur, myclobutanil, or triflumizole during early stages of infection.
+-Remove Infected Plant Material: Prune and destroy affected shoots and leaves to limit spread and reduce spore load.
+======================================================================
+
+Disease Name: Cherry_(including_sour)___healthy
+Crop: Cherry(including sour and sweet)
+======================================================================
+
+Disease Name: Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+Affected Crop: Corn (Maize)
+Typical Occurrence:
+-Prevalent in warm, humid corn-growing regions worldwide—especially in the Midwestern and Southeastern United States, parts of Asia, and Africa.
+-Most common during mid to late growing season, especially in fields with continuous corn planting and high residue.
+Conditions Favoring Disease:
+-High humidity (≥ 90%) and leaf wetness for 12+ hours, with temperatures around 25–30°C.
+-Reduced tillage or no-till farming systems with heavy crop residue, which harbor overwintering spores.
+Symptoms:
+-Rectangular, gray to tan lesions running parallel to the leaf veins, often surrounded by yellow halos.
+-Premature leaf death, beginning from the lower leaves and moving upward.
+-Reduced photosynthesis, leading to poor grain fill and reduced yields.
+Cause:
+-Fungal pathogen: Cercospora zeae-maydis
+-Survives in infected plant debris and spreads through wind-borne spores.
+Prevention:
+-Crop Rotation: Rotate with non-host crops (e.g., soybean, wheat) to reduce inoculum buildup.
+-Tillage and Residue Management: Bury infected residue through tillage to limit overwintering spores.
+Treatment:
+-Fungicide Application: Use fungicides like strobilurins (e.g., azoxystrobin) or triazoles (e.g., propiconazole) at VT to R1 stages for best protection.
+-Resistant Hybrids: Plant gray leaf spot–resistant corn hybrids to reduce disease impact and fungicide dependency.
+======================================================================
+
+Disease Name: Corn_(maize)___Common_rust_
+Affected Crop: Corn (Maize)
+Typical Occurrence:
+-Occurs in temperate and tropical corn-growing regions globally, especially in North and Central America.
+-Most common during early to mid-season, especially when temperatures are moderate and humidity is high.
+Conditions Favoring Disease:
+-Cool to moderate temperatures (16–25°C) with high humidity or prolonged leaf wetness.
+-Early planting or prolonged wet weather favors initial infection and rapid disease spread.
+Symptoms:
+-Small, round to oval reddish-brown pustules (uredinia) scattered on both leaf surfaces.
+-Yellow halos around the pustules, which may coalesce under severe infection.
+-Premature leaf senescence, leading to reduced photosynthetic capacity and yield loss.
+Cause:
+-Fungal pathogen: Puccinia sorghi
+-Survives on alternate host plants (e.g., Oxalis species) and spreads via windborne spores.
+Prevention:
+-Use Resistant Hybrids: Plant corn varieties that have genetic resistance to Puccinia sorghi.
+-Field Monitoring: Regular scouting for early detection helps to make timely management decisions.
+Treatment:
+-Fungicide Application: Apply fungicides like triazoles (e.g., propiconazole) or strobilurins (e.g., azoxystrobin) when pustules first appear and weather favors disease.
+-Remove Alternate Hosts: Eliminate nearby alternate hosts (like Oxalis) that support the pathogen’s lifecycle.
+======================================================================
+
+Disease Name: Corn_(maize)___Northern_Leaf_Blight
+Affected Crop: Corn (Maize)
+Typical Occurrence:
+-Common in humid, temperate to tropical regions worldwide, including the Midwestern U.S., India, Africa, and South America.
+-Typically appears mid to late season, especially in areas with frequent rainfall and dense planting.
+Conditions Favoring Disease:
+-Moderate temperatures (18–27°C) combined with high humidity or extended leaf wetness (6–18 hours).
+-Continuous corn planting, high plant density, and minimal residue management increase risk.
+Symptoms:
+-Large, cigar-shaped gray-green lesions (2–15 cm long) running parallel to leaf veins.
+-Lesions turn tan with dark borders and may merge under severe infection.
+-Premature leaf death, reducing photosynthesis and leading to yield losses.
+Cause:
+-Fungal pathogen: Exserohilum turcicum
+-Overwinters in infected crop debris; spores are spread by wind and rain splash.
+Prevention:
+-Resistant Hybrids: Grow NLB-resistant corn varieties adapted to your region.
+-Crop Rotation and Residue Management: Rotate with non-host crops and plow under infected debris to reduce inoculum.
+Treatment:
+-Fungicide Application: Use triazoles (e.g., propiconazole) or strobilurins (e.g., azoxystrobin) when lesions are first observed, especially before tasseling.
+-Timely Field Scouting: Monitor fields regularly to apply fungicides at the optimal stage of disease development.
+======================================================================
+
+Disease Name: Corn_(maize)___healthy
+Crop: Corn(maize)
+======================================================================
+
+Disease Name: Grape___Black_rot
+Affected Crop: Grape (Vitis species)
+Typical Occurrence:
+-Common in humid, warm climates, especially in the eastern United States, Europe, and parts of Asia.
+-Usually appears from late spring through summer, especially after rainfall.
+Conditions Favoring Disease:
+-Warm temperatures (24–30°C) combined with frequent rain or overhead irrigation.
+-Dense canopies with poor air circulation and unremoved infected debris from prior seasons.
+Symptoms:
+-Brown circular leaf spots with dark margins and tiny black fruiting bodies (pycnidia) inside.
+-Shriveled, dark brown to black berries ("mummies") with hard, raisin-like appearance.
+Dark, sunken lesions on shoots or tendrils, sometimes cracking open.
+Cause:
+-Fungal pathogen: Guignardia bidwellii
+-Overwinters in infected mummified berries, canes, and leaf litter; spreads via rain splash or wind-blown spores.
+Prevention:
+-Sanitation: Remove and destroy all mummified berries and infected prunings during dormancy.
+-Proper Pruning: Maintain open canopies for good airflow and rapid drying of leaves and fruit.
+Treatment:
+-Fungicide Sprays: Apply protective fungicides such as mancozeb, myclobutanil, or captan, starting at bud break and repeating through fruit development.
+-Early Detection and Removal: Regularly inspect and remove infected plant parts to reduce spread.
+======================================================================
+
+Disease Name: Grape___Esca_(Black_Measles)
+Affected Crop: Grape (Vitis species)
+Typical Occurrence:
+-A chronic disease found in mature vineyards, especially in Mediterranean regions, California, and parts of Europe, South Africa, and Australia.
+-Becomes noticeable in summer, especially after the vine is 4–5 years old or older.
+Conditions Favoring Disease:
+-Hot, dry summers combined with previous trunk or pruning wounds.
+-Old, poorly managed vineyards or those with frequent mechanical injuries.
+Symptoms:
+-Interveinal chlorosis and necrosis on leaves — yellowing and browning in a “tiger stripe” pattern.
+-Dark, sunken lesions or “measles” spots on berries, which shrivel and dry.
+-Internal wood discoloration, showing a white rot core surrounded by black streaks when trunks are cut.
+Cause:
+-A complex of fungal pathogens, mainly Phaeomoniella chlamydospora, Phaeoacremonium aleophilum, and Fomitiporia mediterranea.
+-Enters through pruning wounds and spreads internally through the vascular system.
+Prevention:
+-Wound Protection: Apply fungicidal wound protectants immediately after pruning to prevent fungal entry.
+-Sanitation and Tool Disinfection: Regularly sanitize pruning tools and remove infected vines to limit disease spread.
+Treatment:
+-Surgical Removal (Trunk Renewal): Remove infected wood by cutting back to healthy tissue or performing trunk renewal.
+-Sodium arsenite (banned in many regions): Historically used for control, but now replaced with integrated pruning strategies and trunk surgery in modern management.
+======================================================================
+
+Disease Name: Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+Affected Crop: Grape (Vitis species)
+Typical Occurrence:
+-Occurs mainly in warm, humid grape-growing regions, including parts of North America, Europe, India, and South America.
+-Most common in late spring through summer, especially in rainy or densely planted vineyards.
+Conditions Favoring Disease:
+-High humidity and leaf wetness, particularly during prolonged rainy periods or heavy dew.
+-Dense canopy growth that prevents air circulation and delays leaf drying.
+Symptoms:
+-Brown to dark angular lesions on leaves, often surrounded by yellow halos.
+-Lesions may merge, causing large necrotic patches and premature leaf drop.
+-Fuzzy gray fungal growth on the underside of leaves in humid conditions.
+Cause:
+-Fungal pathogen: Pseudocercospora vitis (syn. Isariopsis clavispora)
+-Survives in infected leaf debris and canes, spreading through rain splash and wind.
+Prevention:
+-Canopy Management: Prune to open up the canopy and enhance air flow and leaf drying.
+-Sanitation: Remove and destroy infected leaves and fallen debris after the season.
+Treatment:
+-Fungicide Sprays: Apply protectant fungicides like mancozeb, chlorothalonil, or copper-based sprays, starting early in the season.
+-Early Detection & Reapplication: Regular monitoring and reapplying fungicides during rainy periods help limit spread and damage.
+======================================================================
+
+Disease Name: Grape___healthy
+Crop: Grape
+======================================================================
+
+Disease Name: Orange___Haunglongbing_(Citrus_greening)
+Affected Crop: Orange 
+Typical Occurrence:
+-Found in Asia, Africa, South America, and the United States (notably Florida, Texas, California).
+-Occurs year-round but becomes most noticeable during active growth and fruit development phases.
+Conditions Favoring Disease:
+-Presence of the vector insect, Asian citrus psyllid (Diaphorina citri), which spreads the bacteria.
+-Mild climates where citrus grows and vector populations thrive, especially in poorly managed orchards.
+Symptoms:
+-Blotchy, yellow mottling of leaves, often asymmetrical and resembling zinc deficiency.
+-Small, lopsided, bitter fruits that stay green at the stylar end (“greening”).
+-Twig dieback, leaf drop, and tree decline, eventually leading to tree death.
+Cause:
+-Bacterial pathogen: Candidatus Liberibacter asiaticus
+-Transmitted by the Asian citrus psyllid (ACP) feeding on phloem tissue.
+Prevention:
+-Vector Management: Regular monitoring and control of psyllid populations using insecticides or biocontrol agents.
+-Use Disease-Free Planting Material: Plant only certified disease-free citrus seedlings from registered nurseries.
+Treatment:
+-Remove Infected Trees: Prompt removal and destruction of HLB-infected trees to prevent further spread.
+-Antibiotic Treatment (experimental in some regions): Use of antibiotics (e.g., oxytetracycline) via trunk injection — allowed only under strict regulation and not a cure.
+======================================================================
+
+Disease Name: Peach___Bacterial_spot
+Affected Crop: Peach 
+Typical Occurrence:
+-Common in warm, humid climates, especially in the southeastern United States, southern Europe, and Asia.
+-Typically appears in late spring through summer, particularly during rainy periods.
+Conditions Favoring Disease:
+-Warm temperatures (24–30°C) with frequent rain, wind, or overhead irrigation, which facilitate bacterial spread.
+-Sandy soils and vigorous growth, which are more susceptible to infection due to increased tissue sensitivity.
+Symptoms:
+-Small, dark, water-soaked lesions on leaves, which become angular and may drop out, giving a shot-hole appearance.
+-Spots on fruits that are sunken and cracked, leading to blemished, unmarketable produce.
+-Twig cankers and tip dieback in severe cases, especially in young trees.
+Cause:
+-Bacterial pathogen: Xanthomonas arboricola pv. pruni
+-Spreads through wind-driven rain, insects, and infected nursery stock.
+Prevention:
+-Plant Resistant Varieties: Choose bacterial spot–resistant cultivars (e.g., 'Redskin', 'Sunhigh', 'Harvester').
+-Avoid Overhead Irrigation: Use drip irrigation to minimize leaf wetness and bacterial spread.
+Treatment:
+-Copper-based Sprays: Apply copper hydroxide or copper oxychloride during early leaf and fruit development; avoid excessive use to prevent phytotoxicity.
+-Dormant Season Sprays: Use bactericides like oxytetracycline during dormant and pre-bloom periods to reduce bacterial load.
+======================================================================
+
+Disease Name: Peach___healthy
+Crop: Peach
+======================================================================
+
+Disease Name: Pepper,_bell___Bacterial_spot
+Affected Crop: Bell Pepper 
+Typical Occurrence:
+-Found in warm, humid regions worldwide — especially prevalent in tropical and subtropical areas, including parts of India, Southeast Asia, and the southern U.S.
+-Common during the rainy season or in greenhouses with high humidity.
+Conditions Favoring Disease:
+-High humidity and temperatures between 25–30°C, with frequent rain or overhead irrigation.
+-Mechanical damage (e.g., wind injury, pruning, handling) or insect feeding creates entry points for bacteria.
+Symptoms:
+-Small, water-soaked leaf spots that become dark brown with yellow halos; spots may coalesce and cause leaf drop.
+-Lesions on stems and petioles, leading to weakening and sometimes collapse of young shoots.
+-Raised, scabby lesions on fruits, reducing marketability and exposing them to secondary infections.
+Cause:
+-Bacterial pathogen: Xanthomonas campestris pv. vesicatoria (now Xanthomonas euvesicatoria)
+-Spreads through contaminated seed, rain splash, tools, and handling of infected plants.
+Prevention:
+-Use Certified Disease-Free Seed: Start with pathogen-free or treated seeds to avoid introducing the bacteria.
+-Proper Irrigation and Spacing: Use drip irrigation and maintain adequate plant spacing for air circulation to reduce leaf wetness.
+Treatment:
+-Copper-based Sprays: Apply copper fungicides, sometimes in combination with mancozeb or zinc-based products, early and regularly during crop development.
+-Crop Rotation: Rotate with non-host crops for at least 2–3 years to reduce soil and debris-borne inoculum.
+======================================================================
+
+Disease Name: Pepper,_bell___healthy
+Crop: Pepper bell
+======================================================================
+
+Disease Name: Potato___Early_blight
+Affected Crop: Potato 
+Typical Occurrence:
+-Common in temperate and subtropical regions worldwide, especially in fields with repeated potato or tomato cropping.
+-Most prevalent mid to late growing season, especially when plants are under stress (e.g., drought, nutrient deficiency).
+Conditions Favoring Disease:
+-Warm temperatures (24–29°C) and frequent dew, rain, or irrigation that keep leaves wet.
+-Older leaves and stressed plants are more susceptible, especially with poor nitrogen supply or other stresses.
+Symptoms:
+-Brown to black concentric ring lesions (“target spots”) on older leaves, often with yellow halos.
+-Premature leaf drop, starting from the bottom and progressing upward.
+-Dark sunken lesions on stems and tubers, reducing quality and storage potential.
+Cause:
+-Fungal pathogen: Alternaria solani
+-Survives in plant debris, soil, and infected tubers; spreads via wind, rain, or irrigation splash.
+Prevention:
+-Crop Rotation: Rotate with non-host crops (like cereals) for at least 2 years to reduce inoculum.
+-Resistant Varieties and Proper Nutrition: Use early blight–resistant potato cultivars and avoid plant stress through balanced fertilization.
+Treatment:
+-Fungicide Application: Apply protective fungicides such as chlorothalonil, mancozeb, or azoxystrobin at regular intervals starting early in the season.
+-Field Sanitation: Remove and destroy infected plant debris after harvest to reduce overwintering sources.
+======================================================================
+
+Disease Name: Potato___Late_blight
+Affected Crop: Potato 
+Typical Occurrence:
+-Occurs globally, especially in cool, moist climates—notably in Europe, North America, and highland tropics.
+-Most common during wet and cool weather, typically late in the growing season.
+Conditions Favoring Disease:
+-Cool temperatures (10–20°C) combined with high humidity or leaf wetness for more than 10–12 hours.
+-Prolonged rainy periods, dense plant canopy, and poor air circulation increase disease risk.
+Symptoms:
+-Large, dark brown to black lesions on leaves, often starting at leaf tips or edges and rapidly expanding.
+-White, cottony fungal growth under leaves during humid conditions (active spore production).
+Firm, brown to purple-black lesions on tubers, often leading to internal brown rot and decay in storage.
+Cause:
+-Oomycete pathogen: Phytophthora infestans
+Spreads through airborne spores, infected seed tubers, or water splash; survives in infected tubers and debris.
+Prevention:
+-Use Certified Disease-Free Seed Tubers: Avoid planting infected tubers to prevent introduction of the pathogen.
+-Field Management: Ensure good drainage, avoid overhead irrigation, and space plants adequately for airflow.
+Treatment:
+-Fungicide Application: Apply systemic and protectant fungicides such as metalaxyl, cymoxanil, or chlorothalonil at first signs or when weather forecasts predict risk.
+-Rogueing and Destruction: Remove and destroy infected plants and tubers immediately to prevent spread.
+======================================================================
+
+Disease Name: Potato___healthy
+Crop: Potato
+======================================================================
+
+Disease Name: Raspberry___healthy
+Crop: Raspberry
+======================================================================
+
+Disease Name: Soybean___healthy
+Crop: Soybean
+======================================================================
+
+Disease Name: Squash___Powdery_mildew
+Affected Crop: Squash 
+Typical Occurrence:
+-Occurs worldwide, especially in warm, dry climates with high humidity at night.
+-Commonly appears mid to late growing season, often when fruit is developing.
+Conditions Favoring Disease:
+-Warm temperatures (20–27°C) with high relative humidity, especially at night.
+-Shaded or crowded plantings with poor air circulation promote fungal growth.
+Symptoms:
+-White, powdery fungal growth on upper and sometimes lower leaf surfaces.
+-Yellowing and browning of leaves, eventually leading to premature leaf drop.
+-Reduced fruit size and yield, and sunscald due to leaf loss.
+Cause:
+-Fungal pathogens: Most commonly Podosphaera xanthii or Erysiphe cichoracearum
+-Spores spread via wind, and the fungi thrive on plant surfaces without requiring free water.
+Prevention:
+-Plant Resistant Varieties: Use powdery mildew–resistant squash cultivars.
+-Improve Airflow: Use wide spacing and proper pruning to reduce humidity around leaves.
+Treatment:
+-Fungicide Application: Apply fungicides such as sulfur, potassium bicarbonate, myclobutanil, or neem oil at the first sign of disease.
+-Remove Infected Leaves: Prune and destroy heavily infected leaves to slow spread and lower spore load.
+======================================================================
+
+Disease Name: Strawberry___Leaf_scorch
+Affected Crop: Strawberry
+Typical Occurrence:
+-Occurs in temperate and subtropical regions worldwide, particularly in moist environments.
+-Common during cool, wet springs and early summer, especially in overhead-irrigated or densely planted fields.
+Conditions Favoring Disease:
+-Prolonged leaf wetness due to rain, dew, or overhead irrigation, especially when combined with cool temperatures (15–25°C).
+-Dense foliage with poor air circulation, which promotes humidity retention.
+Symptoms:
+-Small, dark purple to brown spots on leaves that enlarge but do not have a defined margin or center (unlike leaf spot).
+-Drying and scorching of leaf edges and tissue, giving a burned or scorched appearance.
+-Reduced plant vigor and fruit yield, especially in severe infections.
+Cause:
+-Fungal pathogen: Diplocarpon earliana
+-Overwinters on infected leaves and debris; spreads via rain splash, irrigation, or wind-blown spores.
+Prevention:
+-Use Resistant Varieties: Plant leaf scorch–resistant strawberry cultivars where available.
+-Cultural Practices: Improve air circulation through proper spacing and avoid overhead irrigation.
+Treatment:
+-Fungicide Sprays: Apply fungicides such as captan, chlorothalonil, or myclobutanil at first signs and continue at recommended intervals.
+-Sanitation: Remove and destroy infected leaves and debris at the end of the season to reduce overwintering spores.
+======================================================================
+
+Disease Name: Strawberry___healthy
+Crop: Strawberry
+======================================================================
+
+Disease Name: Tomato___Bacterial_spot
+Affected Crop: Tomato 
+Typical Occurrence:
+-Occurs in warm, humid climates, especially in the southeastern United States, Asia, and Latin America.
+-Common during the early to mid-growing season, particularly in fields with overhead irrigation or during frequent rains.
+Conditions Favoring Disease:
+-Warm temperatures (25–30°C) combined with high humidity or frequent rainfall.
+-Wounded plant tissue from wind, insects, or pruning, which allows bacterial entry.
+Symptoms:
+-Small, water-soaked dark spots on leaves, which enlarge and may have a yellow halo.
+-Leaf lesions may coalesce, leading to blighting and defoliation.
+-Raised, rough, scabby lesions on fruit, often starting green and turning brown, reducing marketability.
+Cause:
+-Bacterial pathogens: Xanthomonas euvesicatoria, X. perforans, X. vesicatoria, or X. gardneri
+-Spread by rain splash, contaminated tools, infected seeds, and handling of diseased plants.
+Prevention:
+-Use Disease-Free Seed and Transplants: Start with certified pathogen-free material to avoid introducing bacteria.
+-Avoid Overhead Irrigation: Use drip irrigation to keep foliage dry and reduce bacterial spread.
+Treatment:
+-Copper-Based Sprays: Apply copper hydroxide or copper-oxytetracycline formulations preventatively or at first sign of symptoms.
+-Crop Rotation and Field Sanitation: Rotate with non-solanaceous crops and remove infected plant debris after harvest.
+======================================================================
+
+Disease Name: Tomato___Early_blight
+Affected Crop: Tomato 
+Typical Occurrence:
+-Occurs in warm, humid climates worldwide, especially in fields with frequent tomato cropping and poor sanitation.
+-Most commonly appears during the mid to late growing season, particularly after periods of rainfall or overhead irrigation.
+Conditions Favoring Disease:
+-Warm temperatures (24–29°C) with frequent dew, rain, or irrigation that keeps foliage wet.
+-Plant stress, such as nutrient deficiency, drought, or injury, increases susceptibility.
+Symptoms:
+-Dark brown leaf spots with concentric rings ("target spots"), typically on older, lower leaves.
+-Yellowing and death of foliage, progressing upward and potentially causing significant defoliation.
+-Dark, sunken lesions on stems or fruit shoulders, which may expand and cause fruit rot.
+Cause:
+-Fungal pathogen: Alternaria solani
+-Survives in soil, plant debris, and infected seeds; spreads via wind, rain splash, and tools.
+Prevention:
+-Crop Rotation: Avoid planting tomatoes or related crops (e.g., potatoes) in the same soil for 2–3 years.
+-Resistant Varieties and Good Nutrition: Use early blight–resistant cultivars and maintain balanced soil fertility.
+Treatment:
+-Fungicide Application: Use protectant and systemic fungicides like chlorothalonil, mancozeb, azoxystrobin, or difenoconazole, starting at early signs of disease.
+-Remove Infected Material: Regularly prune infected leaves and remove plant debris after harvest to reduce inoculum sources.
+======================================================================
+
+Disease Name: Tomato___Late_blight
+Affected Crop: Tomato 
+Typical Occurrence:
+-Occurs in cool, moist climates globally, particularly during the rainy season or periods of prolonged leaf wetness.
+-Common in temperate highland regions, including Europe, North America, and South Asia.
+Conditions Favoring Disease:
+-Cool temperatures (10–20°C) with high humidity or extended leaf wetness (≥10 hours).
+-Cloudy, rainy weather, dense plant canopy, and overhead irrigation.
+Symptoms:
+-Large, water-soaked, irregular brown lesions on leaves, often with pale green borders.
+-White fungal growth (sporangia) on the undersides of leaves under humid conditions.
+-Dark brown to black lesions on stems and fruit, leading to fruit rot and plant collapse.
+Cause:
+-Oomycete pathogen: Phytophthora infestans
+-Spreads via airborne spores, infected seedlings, and water splash; survives in infected plant material and soil.
+Prevention:
+-Use Certified Disease-Free Seedlings: Start with healthy, pathogen-free transplants to prevent early infection.
+-Avoid Overhead Irrigation & Improve Airflow: Use drip irrigation and prune plants to reduce humidity and wetness.
+Treatment:
+-Fungicide Application: Apply systemic and contact fungicides such as metalaxyl, cymoxanil, chlorothalonil, or dimethomorph at the first sign or during risk periods.
+-Rogueing and Sanitation: Remove and destroy infected plants immediately, and disinfect tools to prevent spread.
+======================================================================
+
+Disease Name: Tomato___Leaf_Mold
+Affected Crop: Tomato 
+Typical Occurrence:
+-Common in greenhouse or high tunnel tomatoes and humid coastal or tropical climates.
+-Occurs primarily during cool, moist conditions, especially in densely planted crops.
+Conditions Favoring Disease:
+-High relative humidity (≥85%) with leaf wetness lasting over 9 hours, often due to poor ventilation.
+-Cool to moderate temperatures (18–24°C) and dense foliage with limited air movement.
+Symptoms:
+-Pale green to yellow spots on the upper surface of leaves.
+-Velvety olive-green to grayish mold on the undersides of infected leaves.
+-Progressive leaf yellowing and drop, starting from older, lower leaves.
+Cause:
+-Fungal pathogen: Passalora fulva (formerly Cladosporium fulvum)
+-Spreads through airborne conidia (spores) and survives in plant debris, greenhouse structures, and infected seed.
+Prevention:
+-Environmental Control: Maintain low humidity (<85%) and ensure good air circulation in greenhouses through proper spacing and ventilation.
+-Use Resistant Varieties: Grow leaf mold–resistant tomato cultivars when available.
+Treatment:
+-Fungicide Application: Apply fungicides like chlorothalonil, copper-based sprays, mancozeb, or strobilurins (e.g., azoxystrobin) preventively or at early signs.
+-Sanitation: Remove and destroy infected leaves and disinfect greenhouse tools and surfaces regularly.
+======================================================================
+
+Disease Name: Tomato___Septoria_leaf_spot
+Affected Crop: Tomato
+Typical Occurrence:
+-Found worldwide, especially in warm, humid climates and regions with frequent rainfall.
+-Typically appears early to mid-season, especially in areas with dense plantings and overhead irrigation.
+Conditions Favoring Disease:
+-Moderate temperatures (20–25°C) with frequent moisture on leaf surfaces from dew, rain, or irrigation.
+-Poor air circulation and infected plant debris in the field or garden.
+Symptoms:
+-Numerous small, circular leaf spots (1–3 mm) with dark brown margins and gray or tan centers.
+-Tiny black fruiting bodies (pycnidia) visible in the center of older spots (under magnification).
+-Progressive yellowing and dropping of lower leaves, which moves upward on the plant.
+Cause:
+-Fungal pathogen: Septoria lycopersici
+-Survives in infected plant debris, soil, and sometimes on seeds; spreads by splashing water, wind, and tools.
+Prevention:
+-Crop Rotation & Debris Removal: Rotate tomatoes with non-host crops (e.g., corn, beans) and remove infected debris after harvest.
+-Avoid Leaf Wetness: Use drip irrigation instead of overhead watering and space plants properly to improve airflow.
+Treatment:
+-Fungicide Application: Use protectant fungicides such as chlorothalonil, mancozeb, or copper-based sprays early and regularly.
+-Remove Infected Leaves: Prune and destroy affected foliage to reduce disease spread and spore load.
+======================================================================
+
+Disease Name: Tomato___Spider_mites Two-spotted_spider_mite
+Affected Crop: Tomato 
+Typical Occurrence:
+-Common in hot, dry climates worldwide.
+-Especially problematic in greenhouses or during drought conditions, typically mid to late growing season.
+Conditions Favoring Infestation:
+-Hot, dry weather (27–35°C) with low humidity encourages rapid spider mite reproduction.
+-Dusty environments and excessive pesticide use that kill natural predators.
+Symptoms:
+-Tiny yellow or white speckles (stippling) on leaves caused by mite feeding.
+-Fine webbing on the undersides of leaves, where mites congregate.
+-Leaf bronzing, curling, and eventual drying or dropping in heavy infestations.
+Cause:
+Arthropod pest: Tetranychus urticae (Two-Spotted Spider Mite)
+-Feeds on plant cell contents using needle-like mouthparts; reproduces rapidly under ideal conditions.
+Prevention:
+-Maintain Humidity and Reduce Dust: Spray water to increase humidity and reduce dust, which encourages mite buildup.
+-Encourage Natural Predators: Promote or introduce beneficial insects like predatory mites (Phytoseiulus persimilis) and lady beetles.
+Treatment:
+-Miticide or Insecticidal Soap: Apply horticultural oil, insecticidal soap, or specific miticides like abamectin or bifenazate targeting mites.
+-Physical Removal: In small gardens, hose down leaves with water to dislodge mites and remove heavily infested leaves.
+======================================================================
+
+Disease Name: Tomato___Target_Spot
+Affected Crop: Tomato 
+Typical Occurrence:
+-Occurs in tropical and subtropical regions, especially in South and Central America, South Asia, and southern U.S.
+-Typically affects crops during the flowering to fruiting stage, especially in dense or over-irrigated fields.
+Conditions Favoring Disease:
+-Warm, humid weather (25–30°C) with prolonged leaf wetness from rain, dew, or overhead irrigation.
+-Poor air circulation and dense foliage, which trap moisture and promote fungal growth.
+Symptoms:
+-Brown circular spots with concentric rings (“target-like” appearance) on older leaves.
+-Yellowing and premature drop of affected leaves, starting from the base of the plant.
+-Lesions on stems and green fruit, sometimes leading to fruit rot.
+Cause:
+-Fungal pathogen: Corynespora cassiicola
+-The fungus survives in infected plant debris and spreads via wind-blown spores and water splash.
+Prevention:
+-Crop Sanitation: Remove and destroy infected plant debris at the end of the season to reduce the inoculum.
+-Proper Spacing & Irrigation: Ensure adequate plant spacing for air movement and avoid overhead irrigation.
+Treatment:
+-Fungicide Sprays: Apply protective fungicides such as chlorothalonil, azoxystrobin, or mancozeb at regular intervals during high-risk periods.
+-Early Detection & Leaf Pruning: Regularly monitor plants and prune infected leaves to reduce disease spread and humidity in the canopy.
+======================================================================
+
+Disease Name: Tomato___Tomato_Yellow_Leaf_Curl_Virus
+Affected Crop: Tomato 
+Typical Occurrence:
+-Found in tropical and subtropical regions including Asia, Africa, the Mediterranean, and the Americas.
+-Common during warm seasons, especially in fields with heavy whitefly infestation.
+Conditions Favoring Disease:
+High whitefly populations (Bemisia tabaci) that transmit the virus during feeding.
+-Warm temperatures (25–35°C) and dense planting that favor rapid vector reproduction and virus spread.
+Symptoms:
+-Upward curling and yellowing of young leaves, especially at the top of the plant.
+-Stunted growth and shortened internodes, resulting in a bushy appearance.
+-Reduced flowering and fruit set, causing significant yield losses.
+Cause:
+-Virus: Tomato yellow leaf curl virus (TYLCV), a Begomovirus
+-Transmitted by: Whiteflies (Bemisia tabaci), not by seed or mechanical means.
+Prevention:
+-Whitefly Control: Use yellow sticky traps, insect-proof nets, and reflective mulches to minimize whitefly activity.
+-Use Virus-Resistant Varieties: Plant TYLCV-resistant or tolerant tomato cultivars whenever possible.
+Treatment:
+-Rogueing Infected Plants: Remove and destroy symptomatic plants early to limit virus reservoirs in the field.
+-Systemic Insecticides: Apply systemic insecticides like imidacloprid or thiamethoxam to control whiteflies and interrupt virus spread (use responsibly to delay resistance).
+======================================================================
+
+Disease Name: Tomato___Tomato_mosaic_virus
+Affected Crop: Tomato 
+Typical Occurrence:
+-Occurs worldwide, especially in areas with intensive tomato cultivation.
+-Common in greenhouses and open fields, especially where sanitation is poor and tools/hands are shared between plants.
+Conditions Favoring Disease:
+-Frequent human handling, pruning, or grafting without proper sanitation (the virus is mechanically transmitted).
+-Contaminated tools, seeds, or infected plant debris act as sources for virus spread.
+Symptoms:
+-Mottled light and dark green patches (mosaic) on leaves.
+-Distorted or fern-like leaf growth, especially in young leaves.
+-Stunted plants with poor fruit development, and sometimes internal browning of fruit flesh.
+Cause:
+-Virus: Tomato Mosaic Virus (ToMV), a stable and highly contagious mechanically transmitted virus.
+-Not insect-vectored – spread occurs through infected tools, hands, and plant contact.
+Prevention:
+-Sanitation: Regularly disinfect hands and tools using bleach or alcohol during handling or pruning.
+-Use Certified Virus-Free Seeds/Transplants:** Only plant ToMV-free seeds and resistant varieties.
+Treatment:
+-Rogueing: Remove and destroy infected plants immediately to reduce viral load and prevent spread.
+-Soil and Surface Disinfection: Disinfect greenhouse benches, seed trays, and equipment with a strong disinfectant (e.g., 1% sodium hypochlorite).
+======================================================================
+
+Disease Name: Tomato___healthy
+Crop: Tomato
+======================================================================
