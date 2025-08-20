@@ -281,7 +281,7 @@ elif app_mode == "Disease Recognition":
     # Predict Button
     if st.button(" Predict"):
         if final_image is not None:
-            st.toast(" Prediction started...", icon=" ")
+            st.toast(" Prediction started...")
             
             with st.spinner(" "):
                 result_index = model_prediction(final_image)
@@ -305,7 +305,7 @@ elif app_mode == "Disease Recognition":
                 predicted_disease = class_name[result_index]
 
                 #  Success toast after prediction
-                st.toast(f" Prediction complete: {predicted_disease}", icon=" ")
+                st.toast(f" Prediction complete: {predicted_disease}")
                 
                 #  Disease Info
                 disease_details = get_disease_info(predicted_disease)
@@ -337,7 +337,7 @@ elif app_mode == "History":
 
     # --- Handle toast after rerun ---
     if "history_cleared" in st.session_state and st.session_state.history_cleared:
-        st.toast(" History cleared successfully.", icon=" ")
+        st.toast(" History cleared successfully.")
         st.session_state.history_cleared = False  # reset flag
 
     # Clear button at the top-right
@@ -414,14 +414,22 @@ elif app_mode == "Feedback":
 
     if st.button(" Submit Feedback"):
         if name and email and comments:
-            # Prepare email body
+            # Prepare email body with better formatting
             body = f"""
-                        Name: {name}
-                        Email: {email}
-                        Rating: {rating} stars
-                        Comments:
-                        {comments}
-                                    """
+==============================
+🌱 Plant Disease App Feedback
+==============================
+
+👤 Name: {name}
+📧 Email: {email}
+⭐ Rating: {rating} / 5
+
+💬 Comments / Suggestions:
+{comments}
+
+------------------------------
+(Generated automatically from the Streamlit Feedback Form)
+"""
 
             # Encode parameters for URL
             subject_encoded = urllib.parse.quote(fixed_subject)
