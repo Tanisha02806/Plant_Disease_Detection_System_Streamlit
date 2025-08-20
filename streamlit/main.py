@@ -443,9 +443,8 @@ elif app_mode == "Feedback":
             # Gmail compose link
             gmail_url = f"https://mail.google.com/mail/?view=cm&fs=1&to={admin_email}&su={subject_encoded}&body={body_encoded}"
 
-            # Open Gmail in default browser (Chrome if default)
-            webbrowser.open(gmail_url)
-
-            st.success(" Opening Gmail compose window in your browser...")
+            st.success("✅ Feedback prepared! Click below to send it via Gmail:")
+            st.markdown(f"[📧 Send Feedback via Gmail]({gmail_url})", unsafe_allow_html=True)
+            
         else:
             st.warning("⚠️ Please fill in all required fields.")
