@@ -28,7 +28,7 @@ It also keeps a **prediction history** and includes a **feedback submission feat
 ├── prediction_history.json            # JSON file for saving history
 ├── pdf/                               # Generated PDF reports
 ├── img/                               # UI images (e.g., midimage.png)
-├── app.py                             # Main Streamlit app script
+├── main.py                             # Main Streamlit app script
 └── README.md                          # Project documentation
 ```
 
@@ -83,7 +83,7 @@ It also keeps a **prediction history** and includes a **feedback submission feat
 Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 The app will open in your browser at:
