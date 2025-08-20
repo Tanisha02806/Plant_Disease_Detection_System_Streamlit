@@ -17,6 +17,7 @@ HISTORY_FILE = "prediction_history.json"
 # Get directory of this file
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 midimage = os.path.join(BASE_DIR, "img", "midimage.png")
+model_path = os.path.join(BASE_DIR, "trained_model.h5")
 
 #  Sanitize text for PDF
 def remove_unicode(text):
@@ -24,7 +25,7 @@ def remove_unicode(text):
 
 #  Model prediction
 def model_prediction(test_image):
-    model = tf.keras.models.load_model('trained_model.h5')
+    model = tf.keras.models.load_model(model_path)
     image = tf.keras.preprocessing.image.load_img(test_image, target_size=(128, 128))
     input_arr = tf.keras.preprocessing.image.img_to_array(image)
     input_arr = np.array([input_arr])
