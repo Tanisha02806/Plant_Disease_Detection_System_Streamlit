@@ -452,14 +452,14 @@ elif app_mode == "Feedback":
                         font-size:16px;
                         font-weight:bold;
                         color:white;
-                        background-color:#0078D7;
+                        background-color:#097969;
                         border-radius:8px;
                         text-decoration:none;
                         transition: background-color 0.3s ease;
                 "
-                onmouseover="this.style.backgroundColor='#005a9e'"
-                onmouseout="this.style.backgroundColor='#0078D7'">
-                📧 Send Feedback via Gmail
+                onmouseover="this.style.backgroundColor='#097969'"
+                onmouseout="this.style.backgroundColor='#097969'">
+                Send Feedback via Gmail
                 </a>
                 """,
                 unsafe_allow_html=True
