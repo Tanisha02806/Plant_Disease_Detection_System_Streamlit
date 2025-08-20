@@ -18,6 +18,7 @@ HISTORY_FILE = "prediction_history.json"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 midimage = os.path.join(BASE_DIR, "img", "midimage.png")
 model_path = os.path.join(BASE_DIR, "trained_model.h5")
+info_file = os.path.join(BASE_DIR, "full_plant_disease_info.txt")
 
 #  Sanitize text for PDF
 def remove_unicode(text):
@@ -35,7 +36,7 @@ def model_prediction(test_image):
 #  Get disease info
 def get_disease_info(disease_name):
     try:
-        with open("full_plant_disease_info.txt", "r", encoding="utf-8") as file:
+        with open(info_file, "r", encoding="utf-8") as file:
             content = file.read()
             diseases = content.split("=" * 70)
             for disease in diseases:
