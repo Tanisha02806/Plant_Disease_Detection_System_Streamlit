@@ -14,6 +14,9 @@ import webbrowser
 from io import BytesIO
 
 HISTORY_FILE = "prediction_history.json"
+# Get directory of this file
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+midimage = os.path.join(BASE_DIR, "img", "midimage.png")
 
 #  Sanitize text for PDF
 def remove_unicode(text):
@@ -144,7 +147,7 @@ if app_mode == "Home":
     #  Hero Section
     col1, col2, col3 = st.columns([1, 1, 1])
     with col2:
-        st.image("img/midimage.png", width=300)
+        st.image(midimage, width=300)
 
     st.markdown("""
     <h2 style='text-align: center; color: #2e7d32;'>Welcome to the <i>Plant Disease Recognition System</i> </h2>
