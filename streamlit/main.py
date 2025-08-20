@@ -433,7 +433,6 @@ elif app_mode == "Feedback":
 {comments}
 
 ------------------------------
-(Generated automatically from the Streamlit Feedback Form)
 """
 
             # Encode parameters for URL
@@ -443,8 +442,29 @@ elif app_mode == "Feedback":
             # Gmail compose link
             gmail_url = f"https://mail.google.com/mail/?view=cm&fs=1&to={admin_email}&su={subject_encoded}&body={body_encoded}"
 
-            st.success("✅ Feedback prepared! Click below to send it via Gmail:")
-            st.markdown(f"[📧 Send Feedback via Gmail]({gmail_url})", unsafe_allow_html=True)
+            st.success("Feedback prepared! Click below to send it via Gmail:")
+            st.markdown(
+                f"""
+                <a href="{gmail_url}" target="_blank" 
+                style="
+                        display:inline-block;
+                        padding:10px 20px;
+                        font-size:16px;
+                        font-weight:bold;
+                        color:white;
+                        background-color:#0078D7;
+                        border-radius:8px;
+                        text-decoration:none;
+                        transition: background-color 0.3s ease;
+                "
+                onmouseover="this.style.backgroundColor='#005a9e'"
+                onmouseout="this.style.backgroundColor='#0078D7'">
+                📧 Send Feedback via Gmail
+                </a>
+                """,
+                unsafe_allow_html=True
+            )
+
             
         else:
             st.warning("⚠️ Please fill in all required fields.")
